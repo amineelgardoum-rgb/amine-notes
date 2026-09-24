@@ -1,0 +1,6 @@
+- Managed service for fast , customizable data processing .
+- Runs on popular open-source platforms :
+	- Hadoop 
+	- Spark 
+	- Kafka
+	- ![[HDInsight.png]]

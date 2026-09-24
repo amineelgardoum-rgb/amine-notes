@@ -1,0 +1,4 @@
+- Consistent deployments .
+- Combines templates and policies .
+- Offer Blueprint to meet GDPR requirements .![[Azure Blueprints.png]]
+- ![[Azure BluePrint.png]]

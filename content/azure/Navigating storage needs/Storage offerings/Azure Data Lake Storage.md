@@ -1,0 +1,5 @@
+- Combines Blob Storage with file system for large data.
+- Streamlines data access for analytics .
+- Suits petabyte-scale structured to unstructured data .
+- Ideal for complex big data analytics.
+- Unifies diverse data in one space .

@@ -1,0 +1,2 @@
+- Track expenses to meet budgets during migration .
+- Upskill teams to maximize Azure's capabilities.

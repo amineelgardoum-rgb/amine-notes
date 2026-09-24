@@ -1,0 +1,6 @@
+- Part of Microsoft Fabric.
+	- Integrates big data and data warehouses.
+- Unified experience for data preparation , management , and delivery .
+- Supports real-time insights and batch processing .
+- Acts as a turbocharged analytics engine .
+- ![[Azure synapse.png]]

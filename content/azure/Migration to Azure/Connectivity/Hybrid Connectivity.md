@@ -1,0 +1,5 @@
+- Hybrid approach links on-premise systems to Azure via VPN .
+- Azure ExpressRoute offers private , direct data center to Azure connections .
+- Azure Virtual WAN simplifies branch connections .
+- Enhances Flexibility and scalability .
+- [[Azure migrate]]

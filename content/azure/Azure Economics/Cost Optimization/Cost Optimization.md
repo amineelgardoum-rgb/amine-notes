@@ -1,0 +1,3 @@
+- Regularly review cost to avoid waste .
+- Turn off underutilized resources .
+- Azure Advisor offers personalized recommendations .

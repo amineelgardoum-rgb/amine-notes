@@ -1,0 +1,1 @@
+in MongoDB we use the same pattern as the relational database, but with a different approach,by identifying workloads and query patterns,with this approach we can design an accurate data model to support the workload.

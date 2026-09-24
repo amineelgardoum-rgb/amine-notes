@@ -1,0 +1,1 @@
+Azure gives you a suitable fees , in compare with google or AWS providers .

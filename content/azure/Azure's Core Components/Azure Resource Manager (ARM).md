@@ -1,0 +1,7 @@
+- Centralized management layer for resources and resource groups . ![[Azure Resource Manager (ARM).png]]
+- Checks privileges against ActiveDirectory for resource:
+	- Creation.
+	- management .
+	- Deletion. 
+- think of it like a Club guard that authenticate the user will sign in . 
+- [[ARM (Azure Resource Manager)]]

@@ -1,0 +1,3 @@
+- Use the Pricing Calculator .
+- Consult Total Cost of Ownership Calculator .
+- Monitor and optimize costs with best practices,

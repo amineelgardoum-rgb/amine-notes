@@ -1,0 +1,5 @@
+- Secures data at rest .
+- Protects data in transit .
+- ![[Encryption.png]]
+- like safe plus armored truck .
+- Encrypted data thwarts breaches .

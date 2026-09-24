@@ -1,0 +1,4 @@
+- New Azure users get some services free for first 12 months .
+- No initial financial commitment needed .
+- Select resources free indefinitely.
+- Always review pricing for budgeting .

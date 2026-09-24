@@ -1,0 +1,2 @@
+- Choose your machine specifications ,
+- Choose the Savings plan .

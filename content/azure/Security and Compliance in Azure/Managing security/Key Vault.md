@@ -1,0 +1,2 @@
+- Securely stores classified information ![[Key Vault.png]]
+- ![[Azure Key.png]]

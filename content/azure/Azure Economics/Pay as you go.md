@@ -1,0 +1,5 @@
+- Azure uses pay-as-you-go pricing model .
+- Responsibilities vary by service type .
+- Options available to reduce costs .
+- No Upfront costs with pay-as-you-go .
+- Scale resources as needed for cost optimization.

@@ -1,0 +1,1 @@
+- Data that is accessed together should be shared together.

@@ -1,0 +1,3 @@
+- Azure's AKS automates container tasks 
+     - scheduling , monitoring , scaling .
+- Enables easy build , test , and deployment of applications .![[AKS.png]]

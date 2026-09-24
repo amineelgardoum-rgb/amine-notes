@@ -1,0 +1,8 @@
+- Compute . (Provision and manage cloud resources to run application without managing physical hardware)
+- ![[Compute.png]]
+- Storage . (Managed Service responsible for providing readily available for storage solutions)
+- ![[attachements/Storage.png]]
+- Networking . (digital highway connecting different resources whether on-premises or on Azure platform)
+- ![[Networking.png]]
+- Databases . (Store Structured and semi-structured data in a central repository)
+- ![[Storage 1.png]]

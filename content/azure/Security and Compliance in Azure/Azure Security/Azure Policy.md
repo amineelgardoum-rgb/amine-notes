@@ -1,0 +1,2 @@
+- Enforces organization-wide standards .
+- Asses compliance at scale .![[Azure Policy.png]]

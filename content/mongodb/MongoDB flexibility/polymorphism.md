@@ -1,0 +1,1 @@
+is the ability to store documents with different fields in the same collection.

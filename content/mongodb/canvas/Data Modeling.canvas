@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5992cb9214ab99fa","type":"file","file":"attachements/data_modeling.png","x":100,"y":0,"width":400,"height":270},
+		{"id":"fcf8bf869423e10a","type":"file","file":"Data Modeling/Data Modeling.md","x":-460,"y":-40,"width":330,"height":199},
+		{"id":"19efd79aaca181ba","type":"text","text":"### Data Modeling ","x":-165,"y":-389,"width":250,"height":60},
+		{"id":"3c12e622e103b867","type":"text","text":"### Relational Data Modeling ","x":72,"y":-823,"width":250,"height":103},
+		{"id":"7f01cbea23379c37","type":"file","file":"Data Modeling/Relational Data Modeling.md","x":-680,"y":-1020,"width":503,"height":360},
+		{"id":"8c3f3aad6a5891cd","type":"file","file":"attachements/relational_data_modeling.png","x":-383,"y":-1575,"width":399,"height":254}
+	],
+	"edges":[
+		{"id":"9f60fa4d7f46d477","fromNode":"19efd79aaca181ba","fromSide":"left","toNode":"fcf8bf869423e10a","toSide":"top"},
+		{"id":"1e1ff5908785ed08","fromNode":"19efd79aaca181ba","fromSide":"right","toNode":"5992cb9214ab99fa","toSide":"top"},
+		{"id":"72e7d1dec21a51f1","fromNode":"19efd79aaca181ba","fromSide":"top","toNode":"3c12e622e103b867","toSide":"bottom"},
+		{"id":"b24b6d6d1d967bd2","fromNode":"3c12e622e103b867","fromSide":"left","toNode":"7f01cbea23379c37","toSide":"right"},
+		{"id":"a06d57dc0675b7a5","fromNode":"7f01cbea23379c37","fromSide":"top","toNode":"8c3f3aad6a5891cd","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,3 @@
+- Detects and manages threats .
+- ![[Sentinel.png]]
+- ![[Azure Sentinel.png]]

@@ -1,0 +1,4 @@
+- Allows you to reuse on-premises licenses that already exist .
+- Avoid new purchase costs 
+- Maximize existing investments .
+- Easier migration due to familiar setup .

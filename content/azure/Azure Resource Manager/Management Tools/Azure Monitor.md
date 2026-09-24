@@ -1,0 +1,4 @@
+- offers full-stack monitoring .
+- Provides real-time insights into resource performance .
+- Includes advanced analytics for performance , security , cost .
+- Features an integrated alert system for issue detection .

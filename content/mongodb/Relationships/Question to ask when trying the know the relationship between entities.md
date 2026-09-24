@@ -1,0 +1,2 @@
+- Can entity A be related to more than one entity B ?
+- Can entity B be related to more than one entity A ? 

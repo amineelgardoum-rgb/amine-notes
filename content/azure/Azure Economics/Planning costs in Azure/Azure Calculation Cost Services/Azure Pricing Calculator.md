@@ -1,0 +1,6 @@
+- estimate costs with pricing calculator .
+- Specify needs for accurate estimates .
+- Customizable options for budgeting .
+- Simulate scenarios for cost-effectiveness .
+- Optimize cloud spending with detailed breakdowns .
+- ![[Azure Pricing Calculator.png]]

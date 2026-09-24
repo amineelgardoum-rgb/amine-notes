@@ -1,0 +1,4 @@
+- Azure Migrate offers a complete migration solution .
+- Assesses on-premises environment for Azure readiness .
+- Provides guidance on sizing and cost estimates .
+- ![[Azure Migrate.png]]

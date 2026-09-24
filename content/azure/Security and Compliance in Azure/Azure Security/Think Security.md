@@ -1,0 +1,4 @@
+- Logging into an unsecured online banking application .
+	- Username , password , and money at risk from theft .
+- Data Security an compliance maintain customer trust in organizations .
+- Global regulations have legal implications for businesses .

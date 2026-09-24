@@ -1,0 +1,5 @@
+- Cloud-integration service .
+- Creates , schedules , orchestrates data workflows .
+- Streamlines ETL processes.
+- Handles diverse data sources and formats .
+- Automates workflows for flexibility.

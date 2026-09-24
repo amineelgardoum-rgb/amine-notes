@@ -1,0 +1,2 @@
+- Go to _Disk configuration_ and set a `Standard HDD` for the OS disk.
+- Navigate to _Networking_ and set _Public IP_ to `None`.

@@ -1,0 +1,14 @@
+- Why ? Migrating to the cloud impacts people , processes , and technology .
+- The Journey continue with refining and optimizing post-transfer .
+- migration :
+	- Planning 
+	- Implementation 
+	- Operations
+- [[Integration Strategies]]
+- [[Hybrid Connectivity]]
+- [[Azure Site Recovery]]
+- [[Azure migrate]]
+- [[1-Assess infrastructure to determine challenges]]
+- [[2-Start with minor applications or data sets to manage potential mistakes]]
+- [[3-Perform tests post-migration]]
+- [[4-Take a phased approach and prioritize security from the beginning]]

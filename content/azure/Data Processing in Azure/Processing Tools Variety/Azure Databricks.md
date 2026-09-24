@@ -1,0 +1,7 @@
+- Microsoft-Databricks collaboration
+	- Analytics platform optimized for Azure .
+- Unified environment for data engineering . analytics , and machine learning .
+- Collaborative workspace for data scientists and engineers.
+- Built in Data Lake Support.
+- Real-time and Batch.
+- ![[Databricks 1.png]]

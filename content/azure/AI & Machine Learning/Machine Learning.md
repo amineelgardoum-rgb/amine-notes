@@ -1,0 +1,1 @@
+it gives as the ability to deploy , manage machine learning models in the azure ecosystem.![[Machine learning.png]]

@@ -1,0 +1,1 @@
+![[HDInsight.png]]acts as a an analytics engine .

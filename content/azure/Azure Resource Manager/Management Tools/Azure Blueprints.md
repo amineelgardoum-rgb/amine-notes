@@ -1,0 +1,5 @@
+- ensures uniform deployment of Azure resources .
+	- Offers templates like the GDPR blueprint for compliance .
+- Architectural templates for best practices.
+- Avoids inconsistencies in manual resources ,
+- Aligns deployments with organizational standards.

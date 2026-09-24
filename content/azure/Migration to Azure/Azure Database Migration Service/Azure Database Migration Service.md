@@ -1,0 +1,5 @@
+- Simplifies database migration to Azure .
+- ![[Azure Database Migration Service.png]]
+- Supports various database sources , ensuring minimal downtime .
+- Provides assessment tools for migration guidance .
+- Focuses on secure and compliant data migration .

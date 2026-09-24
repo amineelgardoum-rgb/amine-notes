@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3810d874cdca1675","type":"text","text":"## JSON ","x":-177,"y":-278,"width":250,"height":60},
+		{"id":"826c05ffc9e2b020","type":"file","file":"attachements/JSON.png","x":-594,"y":-202,"width":223,"height":400},
+		{"id":"d21bd36d84bdb70a","type":"file","file":"attachements/json_editor.png","x":123,"y":-264,"width":223,"height":400},
+		{"id":"4aa0c507196f5b59","type":"file","file":"Data Format/JSON.md","x":-327,"y":40,"width":400,"height":400},
+		{"id":"3638068009646927","type":"file","file":"MongoDB/Data Format in MongoDB.md","x":-450,"y":-854,"width":400,"height":400},
+		{"id":"daaa51c3ac916071","type":"file","file":"attachements/JSON_file_example.png","x":6,"y":-831,"width":400,"height":296}
+	],
+	"edges":[
+		{"id":"4ab6843d97602d9e","fromNode":"3810d874cdca1675","fromSide":"left","toNode":"826c05ffc9e2b020","toSide":"right"},
+		{"id":"4800ed35cbad7f73","fromNode":"3810d874cdca1675","fromSide":"right","toNode":"d21bd36d84bdb70a","toSide":"left"},
+		{"id":"7eb127edf532bda3","fromNode":"3810d874cdca1675","fromSide":"bottom","toNode":"4aa0c507196f5b59","toSide":"top"},
+		{"id":"e7c462e8ab02922d","fromNode":"3810d874cdca1675","fromSide":"top","toNode":"3638068009646927","toSide":"bottom"},
+		{"id":"d59cf621f39297a5","fromNode":"3810d874cdca1675","fromSide":"top","toNode":"daaa51c3ac916071","toSide":"bottom"}
+	]
+}

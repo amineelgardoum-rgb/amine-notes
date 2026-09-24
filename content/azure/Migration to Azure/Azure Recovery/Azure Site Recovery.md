@@ -1,0 +1,4 @@
+- offers disaster recovery as a service .
+- Automates protection and replication of virtual machines .
+- Enables services in Azure during outages .
+- Customizable recovery plans ensure business continuity .

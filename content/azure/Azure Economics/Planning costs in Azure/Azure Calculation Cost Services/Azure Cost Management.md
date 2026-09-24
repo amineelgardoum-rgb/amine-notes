@@ -1,0 +1,4 @@
+- Use centralized dashboard to monitor cost .
+- apply budget caps for optimization .
+- Analyze costs by service , resource group 
+	- Pinpoint high cost resources.

@@ -1,0 +1,4 @@
+- Azure Container Instances offers serverless container execution.
+- Ideal for quick development and testing .
+- Supports batch jobs , microservices deployment , and specific workloads .
+- Lightweight , less complex than AKS .![[ACI.png]]

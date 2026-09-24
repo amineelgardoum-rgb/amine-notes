@@ -1,0 +1,9 @@
+- Utilizes role-based access control (RBAC) to allocate permissions .
+- Includes custom and predefined roles for select users or groups .
+- Supports extensice roles :
+	- Contributor 
+	- Owner 
+	- Reader 
+	- RBAC administrator 
+	- User Access administrator 
+	- ![[Access Control.png]]

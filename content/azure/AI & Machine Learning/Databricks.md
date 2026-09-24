@@ -1,0 +1,1 @@
+is an analytical platform . provided by azure . its fits will for the AI & Machine learning .![[attachements/Databricks.png]]

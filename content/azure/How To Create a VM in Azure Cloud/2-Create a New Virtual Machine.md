@@ -1,0 +1,2 @@
+- To create a new virtual machine , select Create and choose 'Azure virtual machine' from the dropdown.
+- Set a Custom name for your virtual machine under the subscription pre-fixed with learn-students- and the resource group student- 

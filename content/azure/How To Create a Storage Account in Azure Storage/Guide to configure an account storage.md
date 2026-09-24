@@ -1,0 +1,6 @@
+[[1-Navigate to the Storage Accounts in the left bar menu]]
+[[2-Create new storage account]]
+[[4-Set a name for the storage account (it must be unique)]]
+[[4-Choose the redundancy option for your storage]]
+[[5-Enable versioning for Blobs (this option is under the Data protection in order to have a full historical data across the blobs)]]
+[[6-final step Review the Storage account]]

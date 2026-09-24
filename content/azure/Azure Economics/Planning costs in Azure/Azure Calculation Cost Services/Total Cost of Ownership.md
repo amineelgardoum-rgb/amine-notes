@@ -1,0 +1,8 @@
+- focuses on long-term value .
+- Estimates saving with Azure migration .
+- Also considers :
+	- operational benefits 
+	- reduced downtime risks 
+	- scalability options 
+	- ![[Value == Price.png]]
+	- always the value is in balance with price .

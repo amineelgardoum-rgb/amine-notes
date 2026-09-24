@@ -1,0 +1,1 @@
+![[Many-to-Many.png]][[Question to ask when trying the know the relationship between entities]]

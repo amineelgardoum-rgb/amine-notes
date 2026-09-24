@@ -1,0 +1,1 @@
+- A fully managed application platform for modern applications and microservices .![[ACA.png]]![[Azure Container App Vs Azure App Service.png]]

@@ -1,0 +1,4 @@
+- allows event-driven code execution .
+- With Azure Functions triggers include : 
+     - HTTP requests , database changes , specific event .
+- Auto-scales to meet demand , maintaining applications responsiveness .

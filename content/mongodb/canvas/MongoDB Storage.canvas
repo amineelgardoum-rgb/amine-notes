@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"de668ab9f532814a","type":"file","file":"MongoDB/collections.md","x":120,"y":-1106,"width":400,"height":400},
+		{"id":"491acad9227beffb","type":"text","text":"## MongoDB","x":-180,"y":-340,"width":250,"height":60},
+		{"id":"8bbf74b9d0778b80","type":"file","file":"canvas/JSON.canvas","x":400,"y":-340,"width":978,"height":646}
+	],
+	"edges":[
+		{"id":"c195c0151ddbe532","fromNode":"491acad9227beffb","fromSide":"right","toNode":"8bbf74b9d0778b80","toSide":"left"},
+		{"id":"f79104df5c0600af","fromNode":"491acad9227beffb","fromSide":"top","toNode":"de668ab9f532814a","toSide":"bottom"}
+	]
+}

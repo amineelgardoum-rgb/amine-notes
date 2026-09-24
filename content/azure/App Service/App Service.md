@@ -1,0 +1,4 @@
+- Supports web and mobile development .
+- Build , Deploy , and scale APIs and applications . 
+- Developers focus on code instead of infrastructure .
+- Continuous integration through version control tools .

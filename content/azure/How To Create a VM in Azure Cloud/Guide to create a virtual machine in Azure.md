@@ -1,0 +1,5 @@
+[[1-Navigate to the menu bar and select "Virtual Machines"]]
+[[2-Create a New Virtual Machine]]
+[[3-Configure your virtual machine]]
+[[4-Configure the username]]
+[[5-Configure Disk Capacity in the VM]]

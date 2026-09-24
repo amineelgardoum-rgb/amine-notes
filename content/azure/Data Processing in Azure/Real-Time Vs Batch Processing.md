@@ -1,0 +1,7 @@
+- Consider processing type before choosing a service .
+- Real-time : immediate analytics .
+- Batch : Scheduled or ad-hoc analytics.
+- Example in healthcare :
+	- Real-time - Hospital emergency Dashboards
+	- Batch - weekly-updated dashboards 
+- Different infrastructure and cost implications.

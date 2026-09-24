@@ -1,0 +1,4 @@
+- Azure backups and recovery secures on-premises and cloud backups .
+- Utilizes Azure Storage Services for secure data storage .
+- Emphasizes Data protection and easy disaster recovery.
+- Backups run seamlessly in the backgrounds .

@@ -1,0 +1,8 @@
+[[Azure Cost Management]]
+[[Azure Pricing Calculator]]
+[[Total Cost of Ownership]]
+[[Pay as you go]]
+[[How to Calculate the Cost while working with azure]]
+[[Azure Hybrid Benefit]]
+[[Reservation]]
+[[Spot Instances]]

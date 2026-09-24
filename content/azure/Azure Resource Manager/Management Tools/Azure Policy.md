@@ -1,0 +1,4 @@
+- Uploads organizational and compliance .
+- Example : [[US banks must deploy resources in US Azure regions ]]
+- integrates with deployment criteria and corporate guidelines.
+- Automates policy enforcement to reduce errors .

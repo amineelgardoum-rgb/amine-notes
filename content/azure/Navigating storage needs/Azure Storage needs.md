@@ -1,0 +1,10 @@
+- Azure Provides diverse storage for various needs .
+- Supports businesses in digital transformation challenges .
+- **Storage tiers**:  
+   - Azure Storage tiers tailored for access and cost .
+   - The tiers are :
+     - Hot: Fast , for frequent access , higher cost .
+     - Cool: cost-effective , for less frequent access , still fast .
+     - Archive : low-cost , for long-term storage , slow access.
+- Azure shifts tiers automatically as needed .
+- ![[Storage tiers.png]]

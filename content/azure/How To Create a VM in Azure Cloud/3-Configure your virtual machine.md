@@ -1,0 +1,4 @@
+- Set Region to `(US) East US`
+- Set Availability Option as `Availability zone` and availability zone as `Zone 3`
+- Image as `Ubuntu Server 24.04 LTS - x64 Gen2` (If not preselected)
+- Size as `Standard_DS1_v2 - 1 vcpu, 3.5GiB memory`

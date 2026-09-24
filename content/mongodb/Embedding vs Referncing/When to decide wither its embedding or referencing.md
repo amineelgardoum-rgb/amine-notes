@@ -1,0 +1,13 @@
+- guidelines :
+- [[simplicity]]
+- [[Go Together]]
+- [[Query Atomicity]]
+- [[Update Complexity]]
+- [[Archival]]
+- [[Cardinality]]
+- [[Data Duplication]]
+- [[individuality]]
+- [[Workload]]
+- [[Document Size]]
+- [[Document Growth]]
+every time we work with this guidelines , some approach may require some guideline , here we are talking about the priority of each one of them to build our application

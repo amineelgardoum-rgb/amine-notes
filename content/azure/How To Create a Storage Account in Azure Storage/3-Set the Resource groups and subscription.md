@@ -1,0 +1,1 @@
+![[Resource group and subscription.png]]

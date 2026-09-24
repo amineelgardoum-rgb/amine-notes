@@ -1,0 +1,8 @@
+- Blob (Binary large object) Storage .
+	- Designed to store unstructured data :
+	   - Text , video , or images .
+	   - ![[Blob.png]]
+	   - High Tech version of a modern-day storage facility .
+	   - Ideal for serving images , videos , documents and backups .
+	   - Multiple Storage tiers.
+	   - Access objects via HTTP / HTTPS from anywhere .

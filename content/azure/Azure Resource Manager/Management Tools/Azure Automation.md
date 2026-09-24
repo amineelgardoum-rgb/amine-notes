@@ -1,0 +1,4 @@
+- Streamlines workflows and minimizes repetitive tasks .
+- Based on powershell for easy integration ,
+- Enables runbook creation for routine task automation 
+- Supports Configuration management and updating management shared capabilities .

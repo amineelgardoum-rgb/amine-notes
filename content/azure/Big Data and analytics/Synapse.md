@@ -1,0 +1,1 @@
+it combines the data warehousing and analytics in big scale .![[Synapse.png]]

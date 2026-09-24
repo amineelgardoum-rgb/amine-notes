@@ -1,0 +1,6 @@
+- Commit to plans for cost reduction .
+- Save up to 72% off pay-as-you-go .
+- Reservations ideal for :
+	- consistent resource usage 
+	- long-term projects 
+- think of it like booking a reservation .

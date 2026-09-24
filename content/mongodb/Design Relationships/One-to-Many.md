@@ -1,0 +1,6 @@
+- A way to do this relationship, is to embed the "many" side as an array of sub-documents in the "one" side.
+- ![[One-to-Many-relationship.png|330]]
+- Array of references within parent document.![[refrence-one-to-many.png]]
+- reference the parent from the child .![[reference-one-to-many.png]]
+- the preferred Way is to embed directly the child in the parent (no $lookup is needed).
+- remember always the cardinality guideline.(id we  can have a big amount of operation on that child document we should reference either than embedding the document in the parent child).

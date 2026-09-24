@@ -1,0 +1,5 @@
+- DDos floods sites with fake traffic 
+	- Inaccessible to real users 
+- Azure DDoS acts as security guard 
+- Allows genuine users only 
+- Guards continuously against large-scale attacks![[guard DDoS Azure.png]]

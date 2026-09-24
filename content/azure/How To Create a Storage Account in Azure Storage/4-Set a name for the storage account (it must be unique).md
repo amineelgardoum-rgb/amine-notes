@@ -1,0 +1,1 @@
+![[Name the storage account.png]]

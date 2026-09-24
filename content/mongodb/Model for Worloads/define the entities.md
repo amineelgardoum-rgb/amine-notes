@@ -1,0 +1,4 @@
+We follow a simple rule: define interactions for database interaction, identify key entities like books, reviews, users, authors in an online bookstore context; then assess entity count using basic methods such as estimating attributes' quantity initially. This helps determine Entities and Attributes within our system.️we follow a simple rule , define how to interact with the database in order to define the entities , for example if i have a book store , there is reviews , users , authors , etc ...
+then estimate the amount of entities , just some approach to work with it , after those operations 
+we can determine the [[Entities]]  and there [[Attributes]].
+we estimate some initial values just to quantify the entities.

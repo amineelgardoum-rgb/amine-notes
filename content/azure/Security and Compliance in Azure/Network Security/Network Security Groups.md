@@ -1,0 +1,2 @@
+- Filters inbound and outbound traffic .
+- Administrators set and enforce security rules .![[Network Security groups.png]]

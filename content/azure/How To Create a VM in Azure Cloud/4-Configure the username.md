@@ -1,0 +1,2 @@
+- Configure the username for the administrator account with something you like.
+- Configure a strong password for the account. (e.g. `ACflLKAW968!`)

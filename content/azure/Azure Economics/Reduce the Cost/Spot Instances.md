@@ -1,0 +1,5 @@
+- reduce costs with Spot Instances
+	- Virtual machine usage .
+- Buy unused compute capacity at savings .
+- Ideal for interruptible workloads .
+- No Specific completion time needed .

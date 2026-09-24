@@ -1,0 +1,3 @@
+are the individual properties that describe an entity.
+for a product as an example it could be a name , production_date , etc ...
+those will help as to identify the reads and writes. 

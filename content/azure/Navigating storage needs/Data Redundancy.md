@@ -1,0 +1,4 @@
+- Azure Data redundancy duplicates data for availability during outages .
+- Locally Redundant Storage (LRS) (multiple copies in one datacenter)
+- Geo-Redundant Storage (GRS) (copies across different regions)
+- Zone-Redundant Storage (ZRS) (copies in availability zones with one region)

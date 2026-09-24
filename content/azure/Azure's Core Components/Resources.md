@@ -1,0 +1,6 @@
+- Resources represents purchased service . 
+   - Web Hosting .
+   - Virtual Machine .
+   - Database .
+-  Generic JSON template.
+   - Text-based file presenting Structured data in JavaScript.

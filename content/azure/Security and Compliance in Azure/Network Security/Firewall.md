@@ -1,0 +1,3 @@
+- Provides advanced threat protection .
+- Filters and analyzes network traffic .
+- Allows only safe and approved connections .![[Azure Firewall.png]]
