@@ -274,11 +274,14 @@ layout:
       exclude:
         - reader-mode
       positions:
-        right: []
+        right:
+          - graph
+          - backlinks
     tag:
       exclude:
         - reader-mode
       positions:
-        right: []
+        right:
+          - graph
     canvas: {}
     bases: {}
