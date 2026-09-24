@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: amine-notes.netlify.app
+  baseUrl: amineelgardoum-rgb.github.io/amine-notes
   ignorePatterns:
     - private
     - templates
